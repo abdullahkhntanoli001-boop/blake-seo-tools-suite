@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is JSON-LD Schema Markup?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "JSON-LD (JavaScript Object Notation for Linked Data) is a standardized format recommended by Google to annotate elements on a page, helping search engines understand the meaning and context of your content."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does FAQ schema help search rankings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "FAQ schema qualifies your pages for Google Rich Snippets with expandable question accordions, increasing click-through rates (CTR) and search real estate."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I generate valid Schema Markup for free?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can use Blake SEO Tools (https://blakeseotools.com) to generate validated JSON-LD schema markups instantly with live SERP preview and zero registration."
+      }
+    }
+  ]
+}

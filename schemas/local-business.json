@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Example Digital Agency",
+  "image": "https://blakeseotools.com/favicon.svg",
+  "telephone": "+1-555-019-2831",
+  "email": "info@exampleagency.com",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "100 Innovation Way",
+    "addressLocality": "Austin",
+    "addressRegion": "TX",
+    "postalCode": "78701",
+    "addressCountry": "US"
+  },
+  "url": "https://exampleagency.com",
+  "priceRange": "$$"
+}
